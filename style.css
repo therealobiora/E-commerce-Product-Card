@@ -169,7 +169,7 @@ body:before {
   transition: 0.3s;
 }
 .button2 button:hover {
-  background-color: #122;
+  background-color: rgb(95, 66, 56);
   border: 1px solid #122;
 }
 .tlink {
